@@ -19,6 +19,7 @@ a {
 
 .container {
   max-width: 1170px;
+  height: 300px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -220,6 +221,7 @@ span.menu-icon {
   background-size: cover;
   color: rgb(0, 0, 0);
   text-align: left;
+  height: 300px;
 }
 .top-section h1 {
   opacity: 1;
